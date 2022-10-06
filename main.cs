@@ -4,6 +4,17 @@
 RecognitionResultOfHumanOCR();
 
 
+unsafe void RecognitionResultOfHumanOCR_ComputedPosition()
+{
+    float* h = stackalloc float[77];
+    float* a = stackalloc float[20];
+    float* b = stackalloc float[25];
+    float* c = stackalloc float[20];
+
+
+ }
+
+
 unsafe void RecognitionResultOfHumanOCR ()
 {
     float* h = stackalloc float[77];
